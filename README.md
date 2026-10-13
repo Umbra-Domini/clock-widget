@@ -3,7 +3,7 @@
 A small translucent glass clock for your Linux desktop. It shows a big time with the day and date underneath, plus optional extras: seconds, AM/PM, week number, day of the year, a day-progress bar and a second time zone. Show or hide it with a keyboard shortcut.
 
 <p align="center">
-  <img src="docs/clock.png" alt="Clock Widget" width="578">
+  <img src="https://github.com/user-attachments/assets/ee6f9e53-d677-489e-ba63-af43ea1ee318" alt="Clock Widget" width="328">
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ The buttons at the bottom of the window: **Reset to defaults** puts everything b
 ### Clock
 
 <p align="center">
-  <img src="docs/settings-clock.png" alt="Clock settings" width="380">
+  <img src="https://github.com/user-attachments/assets/5451278e-511b-46b8-915e-839ab0f83a0f" alt="Clock settings" width="380">
 </p>
 
 | Setting                    | What it does                                                                               |
@@ -91,7 +91,7 @@ The buttons at the bottom of the window: **Reset to defaults** puts everything b
 ### Appearance
 
 <p align="center">
-  <img src="docs/settings-appearance.png" alt="Appearance settings" width="380">
+  <img src="https://github.com/user-attachments/assets/5d7eee18-0d01-4ce8-b07f-ef41fb090c59" alt="Appearance settings" width="380">
 </p>
 
 | Setting                        | What it does                                                          |
@@ -109,7 +109,7 @@ The buttons at the bottom of the window: **Reset to defaults** puts everything b
 ### Layout
 
 <p align="center">
-  <img src="docs/settings-layout.png" alt="Layout settings" width="380">
+  <img src="https://github.com/user-attachments/assets/0f4d23d7-1df7-40c4-8334-b63143b8c76b" alt="Layout settings" width="380">
 </p>
 
 | Setting                         | What it does                                                                                         |
@@ -126,7 +126,7 @@ Dragging the card moves it and switches Position to Fixed, so it stays where you
 ### Behavior
 
 <p align="center">
-  <img src="docs/settings-behavior.png" alt="Behavior settings" width="380">
+  <img src="https://github.com/user-attachments/assets/d11f145a-3b13-4ca9-b67d-6a67bda90d8f" alt="Behavior settings" width="380">
 </p>
 
 | Setting                        | What it does                                                                                                                                             |
